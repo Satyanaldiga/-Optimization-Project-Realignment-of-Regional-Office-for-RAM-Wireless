@@ -32,7 +32,8 @@ Manual refinements improved cost efficiency and alignment, reducing costs furthe
 A hybrid approach, integrating geographic constraints with manual adjustments, was recommended for optimal store allocation.
 
 
-#Key Takeaways
+# Key Takeaways
+
 Mathematical optimization is a valuable tool for improving logistics and operational efficiency.
 
 Manual refinements can complement algorithmic solutions by addressing real-world constraints.
