@@ -4,8 +4,7 @@ This project addresses an optimization challenge involving the allocation of sto
 
 # Problem Statement
 The existing store-to-office assignment follows a nearest-office approach, prioritizing travel distance but overlooking office capacity, leading to inefficiencies such as:
-
-# High travel costs
+High travel costs
 Uneven workload distribution
 Underutilization of certain offices
 The goal of this project was to develop an optimized allocation model for 50 stores, ensuring cost-effective assignments while maintaining office workload feasibility.
